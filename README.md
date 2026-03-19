@@ -1,4 +1,4 @@
-# 👋 Hola, soy Beto
+# 👋 Hola, soy Alberto Ahumada
 
 🎓 Estudiante de Ingeniería en Sistemas  
 💻 Interesado en Linux, Python y desarrollo de software  
